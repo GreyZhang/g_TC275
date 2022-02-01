@@ -4,3 +4,4 @@ TC275是我现在工作中经常接触的一个MCU，但是我对这个MCU的熟
 ** 学习笔记
 - [[https://greyzhang.blog.csdn.net/article/details/122748886][1112_AURIX_TC275_hack_学习开篇]]
 - [[https://greyzhang.blog.csdn.net/article/details/122755170][1113_AURIX_TC275_Lite开发板准备与初步信息梳理]]
+- [[https://mp.csdn.net/mp_blog/creation/editor/122765400][1121_AURIX_TC275_lite开发板说明文档中开发板基本信息梳理]]
