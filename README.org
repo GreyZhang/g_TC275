@@ -7,3 +7,4 @@ TC275是我现在工作中经常接触的一个MCU，但是我对这个MCU的熟
 - [[https://mp.csdn.net/mp_blog/creation/editor/122765400][1121_AURIX_TC275_lite开发板说明文档中开发板基本信息梳理]]
 - [[https://greyzhang.blog.csdn.net/article/details/122772191][1123_AURIX_TC275_DAP接口学习]]
 - [[https://greyzhang.blog.csdn.net/article/details/122795873][1128_AURIX_TC275的基本参数了解]]
+- [[https://greyzhang.blog.csdn.net/article/details/122802874][1129_AURIX_TC275部分功能了解]]
