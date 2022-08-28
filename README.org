@@ -9,3 +9,4 @@ TC275是我现在工作中经常接触的一个MCU，但是我对这个MCU的熟
 - [[https://greyzhang.blog.csdn.net/article/details/122795873][1128_AURIX_TC275的基本参数了解]]
 - [[https://greyzhang.blog.csdn.net/article/details/122802874][1129_AURIX_TC275部分功能了解]]
 - [[https://blog.csdn.net/grey_csdn/article/details/126551936][1440_TC275 DataSheet阅读笔记1]]
+- [[https://blog.csdn.net/grey_csdn/article/details/126573532][1441_TC275 DataSheet阅读笔记2]]
