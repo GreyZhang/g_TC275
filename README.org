@@ -15,3 +15,4 @@ TC275是我现在工作中经常接触的一个MCU，但是我对这个MCU的熟
 - [[https://blog.csdn.net/grey_csdn/article/details/126593038][1443_TC275 DataSheet阅读笔记4]]
 - [[https://blog.csdn.net/grey_csdn/article/details/126611524][1444_TC275 DataSheet阅读笔记5_部分管脚功能的梳理]]
 - [[https://blog.csdn.net/grey_csdn/article/details/126616874][1445_TC275 DataSheet阅读笔记6_部分管脚功能的梳理]]
+- [[https://blog.csdn.net/grey_csdn/article/details/126662280][1446_TC275 DataSheet阅读笔记7_部分管脚功能的梳理]]
