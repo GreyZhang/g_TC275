@@ -17,3 +17,4 @@ TC275是我现在工作中经常接触的一个MCU，但是我对这个MCU的熟
 - [[https://blog.csdn.net/grey_csdn/article/details/126616874][1445_TC275 DataSheet阅读笔记6_部分管脚功能的梳理]]
 - [[https://blog.csdn.net/grey_csdn/article/details/126662280][1446_TC275 DataSheet阅读笔记7_部分管脚功能的梳理]]
 - [[https://blog.csdn.net/grey_csdn/article/details/126663592][1447_TC275 DataSheet阅读笔记8_电气特性]]
+- [[https://blog.csdn.net/grey_csdn/article/details/126677911][1448_TC275 DataSheet阅读笔记9_电气特性]]
