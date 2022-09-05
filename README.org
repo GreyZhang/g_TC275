@@ -19,3 +19,4 @@ TC275是我现在工作中经常接触的一个MCU，但是我对这个MCU的熟
 - [[https://blog.csdn.net/grey_csdn/article/details/126663592][1447_TC275 DataSheet阅读笔记8_电气特性]]
 - [[https://blog.csdn.net/grey_csdn/article/details/126677911][1448_TC275 DataSheet阅读笔记9_电气特性]]
 - [[https://blog.csdn.net/grey_csdn/article/details/126685831][1449_TC275 DataSheet阅读笔记10_电气特性]]
+- [[https://blog.csdn.net/grey_csdn/article/details/126713541][1450_TC275 DataSheet阅读笔记11_ADC以及晶振]]
