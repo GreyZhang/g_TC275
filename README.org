@@ -21,3 +21,4 @@ TC275是我现在工作中经常接触的一个MCU，但是我对这个MCU的熟
 - [[https://blog.csdn.net/grey_csdn/article/details/126685831][1449_TC275 DataSheet阅读笔记10_电气特性]]
 - [[https://blog.csdn.net/grey_csdn/article/details/126713541][1450_TC275 DataSheet阅读笔记11_ADC以及晶振]]
 - [[https://blog.csdn.net/grey_csdn/article/details/126735157][1451_TC275 DataSheet阅读笔记12_时钟、温度以及供电]]
+- [[https://blog.csdn.net/grey_csdn/article/details/126753451][1452_TC275 DataSheet阅读笔记13_供电]]
