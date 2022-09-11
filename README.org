@@ -25,3 +25,4 @@ TC275是我现在工作中经常接触的一个MCU，但是我对这个MCU的熟
 - [[https://blog.csdn.net/grey_csdn/article/details/126772871][1453_TC275 DataSheet阅读笔记14]]
 *** 开发工具以及开发板
 - [[https://blog.csdn.net/grey_csdn/article/details/126795186][1455_AURIX Development Studio的安装]]
+- [[https://greyzhang.blog.csdn.net/article/details/126809804][1456_AURIX Development Studio的试用初步]]
