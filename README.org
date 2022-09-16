@@ -23,8 +23,10 @@ TC275是我现在工作中经常接触的一个MCU，但是我对这个MCU的熟
 - [[https://blog.csdn.net/grey_csdn/article/details/126735157][1451_TC275 DataSheet阅读笔记12_时钟、温度以及供电]]
 - [[https://blog.csdn.net/grey_csdn/article/details/126753451][1452_TC275 DataSheet阅读笔记13_供电]]
 - [[https://blog.csdn.net/grey_csdn/article/details/126772871][1453_TC275 DataSheet阅读笔记14]]
+*** 调试接口
+- [[https://blog.csdn.net/grey_csdn/article/details/126897245][1461_DAP调试接口科普]]
 *** 开发工具以及开发板
 - [[https://blog.csdn.net/grey_csdn/article/details/126795186][1455_AURIX Development Studio的安装]]
 - [[https://greyzhang.blog.csdn.net/article/details/126809804][1456_AURIX Development Studio的试用初步]]
 - [[https://blog.csdn.net/grey_csdn/article/details/126860142][1459_TC275_Lite_Kit-UserManual阅读笔记1]]
--[[https://blog.csdn.net/grey_csdn/article/details/126864185][1460_TC275_Lite_Kit-UserManual阅读笔记2]] 
+- [[https://blog.csdn.net/grey_csdn/article/details/126864185][1460_TC275_Lite_Kit-UserManual阅读笔记2]] 
