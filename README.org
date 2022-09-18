@@ -31,3 +31,4 @@ TC275是我现在工作中经常接触的一个MCU，但是我对这个MCU的熟
 - [[https://blog.csdn.net/grey_csdn/article/details/126860142][1459_TC275_Lite_Kit-UserManual阅读笔记1]]
 - [[https://blog.csdn.net/grey_csdn/article/details/126864185][1460_TC275_Lite_Kit-UserManual阅读笔记2]] 
 - [[https://blog.csdn.net/grey_csdn/article/details/126911408][1462_TC275_Lite_kit上的调试器使用]]
+- [[https://blog.csdn.net/grey_csdn/article/details/126913846][1463_英飞凌TC275开发板例程覆盖梳理]]
