@@ -34,3 +34,4 @@ TC275是我现在工作中经常接触的一个MCU，但是我对这个MCU的熟
 - [[https://blog.csdn.net/grey_csdn/article/details/126913846][1463_英飞凌TC275开发板例程覆盖梳理]]
 - [[https://blog.csdn.net/grey_csdn/article/details/126943599][1464_TC275_Lite_Kit hello world]]
 - [[https://blog.csdn.net/grey_csdn/article/details/126960783][1465_TC275_Lite_Kit开发板从Arduino兼容连接器引出串口监控]]
+- [[https://blog.csdn.net/grey_csdn/article/details/126981756][1466_TC275_Lite_Kit串口例程串口配置分析]]
