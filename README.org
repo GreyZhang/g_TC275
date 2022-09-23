@@ -23,6 +23,8 @@ TC275是我现在工作中经常接触的一个MCU，但是我对这个MCU的熟
 - [[https://blog.csdn.net/grey_csdn/article/details/126735157][1451_TC275 DataSheet阅读笔记12_时钟、温度以及供电]]
 - [[https://blog.csdn.net/grey_csdn/article/details/126753451][1452_TC275 DataSheet阅读笔记13_供电]]
 - [[https://blog.csdn.net/grey_csdn/article/details/126772871][1453_TC275 DataSheet阅读笔记14]]
+** Aurix_deltas2015_overview_LIST_V11_2015-10-09
+- [[https://blog.csdn.net/grey_csdn/article/details/127019329][1468_Aurix_deltas2015_overview_LIST_V11_2015-10-09阅读笔记]]
 *** 调试接口
 - [[https://blog.csdn.net/grey_csdn/article/details/126897245][1461_DAP调试接口科普]]
 *** 开发工具以及开发板
@@ -35,4 +37,4 @@ TC275是我现在工作中经常接触的一个MCU，但是我对这个MCU的熟
 - [[https://blog.csdn.net/grey_csdn/article/details/126943599][1464_TC275_Lite_Kit hello world]]
 - [[https://blog.csdn.net/grey_csdn/article/details/126960783][1465_TC275_Lite_Kit开发板从Arduino兼容连接器引出串口监控]]
 - [[https://blog.csdn.net/grey_csdn/article/details/126981756][1466_TC275_Lite_Kit串口例程串口配置分析]]
-- [[https://blog.csdn.net/grey_csdn/article/details/126998116][1467_TC275开发板上实现printf打印功能]]
+- [[https://blog.csdn.net/grey_csdn/article/details/126998116][1467_TC275开发板上实现printf打印功]]
