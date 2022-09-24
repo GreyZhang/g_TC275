@@ -38,3 +38,4 @@ TC275是我现在工作中经常接触的一个MCU，但是我对这个MCU的熟
 - [[https://blog.csdn.net/grey_csdn/article/details/126960783][1465_TC275_Lite_Kit开发板从Arduino兼容连接器引出串口监控]]
 - [[https://blog.csdn.net/grey_csdn/article/details/126981756][1466_TC275_Lite_Kit串口例程串口配置分析]]
 - [[https://blog.csdn.net/grey_csdn/article/details/126998116][1467_TC275开发板上实现printf打印功]]
+- [[https://blog.csdn.net/grey_csdn/article/details/127024691][1469_TC275串口字符串输出例程中的中断功能分析]]
