@@ -40,4 +40,5 @@ TC275是我现在工作中经常接触的一个MCU，但是我对这个MCU的熟
 - [[https://blog.csdn.net/grey_csdn/article/details/126998116][1467_TC275开发板上实现printf打印功]]
 - [[https://blog.csdn.net/grey_csdn/article/details/127024691][1469_TC275串口字符串输出例程中的中断功能分析]]
 - [[https://blog.csdn.net/grey_csdn/article/details/127060272][1471_TC275的内核种类以及ID判断]]
-- [[https://blog.csdn.net/grey_csdn/article/details/127079681][1472_TC275的看门狗简介以及安全看门狗及CPU看门狗的区分]]
+- [[https://blog.csdn.net/grey_csdn/article/details/127079681][1472_TC275的看门狗简介以及安全看门狗及CPU看门狗的区]]
+- [[https://blog.csdn.net/grey_csdn/article/details/127081844][1473_AURIX TC275 WDT基本功能特性以及保护机制]]
