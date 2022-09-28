@@ -42,3 +42,4 @@ TC275是我现在工作中经常接触的一个MCU，但是我对这个MCU的熟
 - [[https://blog.csdn.net/grey_csdn/article/details/127060272][1471_TC275的内核种类以及ID判断]]
 - [[https://blog.csdn.net/grey_csdn/article/details/127079681][1472_TC275的看门狗简介以及安全看门狗及CPU看门狗的区]]
 - [[https://blog.csdn.net/grey_csdn/article/details/127081844][1473_AURIX TC275 WDT基本功能特性以及保护机制]]
+- [[https://blog.csdn.net/grey_csdn/article/details/127099904][1474_AURIX TC275 WDT的运行模式]]
