@@ -45,3 +45,4 @@ TC275是我现在工作中经常接触的一个MCU，但是我对这个MCU的熟
 - [[https://blog.csdn.net/grey_csdn/article/details/127099904][1474_AURIX TC275 WDT的运行模式]]
 - [[https://blog.csdn.net/grey_csdn/article/details/127128314][1475_AURIX TC275 WDT的寄存器概览]]
 - [[https://blog.csdn.net/grey_csdn/article/details/127144915][1477_AURIX TC275 iLLD中看门狗密码获取接口分析]]
+- [[https://blog.csdn.net/grey_csdn/article/details/127151789][1478_英飞凌AURIX TC275 iLLD中的看门狗禁用接口分析]]
