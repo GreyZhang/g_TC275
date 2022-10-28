@@ -49,3 +49,4 @@ TC275是我现在工作中经常接触的一个MCU，但是我对这个MCU的熟
 - [[https://blog.csdn.net/grey_csdn/article/details/127162209][1479_英飞凌AURIX TC275 iLLD例子中的CPU同步实现分析]]
 - [[https://blog.csdn.net/grey_csdn/article/details/127310216][1490_TC275_UART_shell例程测试]]
 - [[https://blog.csdn.net/grey_csdn/article/details/127562443][1504_AURIX_TC275参考手册_芯片介绍]]
+- [[https://blog.csdn.net/grey_csdn/article/details/127564658][1505_TC275参考手册阅读笔记_调试系统]]
