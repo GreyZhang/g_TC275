@@ -27,6 +27,7 @@ TC275是我现在工作中经常接触的一个MCU，但是我对这个MCU的熟
 - [[https://blog.csdn.net/grey_csdn/article/details/127019329][1468_Aurix_deltas2015_overview_LIST_V11_2015-10-09阅读笔记]]
 *** 调试接口
 - [[https://blog.csdn.net/grey_csdn/article/details/126897245][1461_DAP调试接口科普]]
+*** 内核架构
 *** 开发工具以及开发板
 - [[https://blog.csdn.net/grey_csdn/article/details/126795186][1455_AURIX Development Studio的安装]]
 - [[https://greyzhang.blog.csdn.net/article/details/126809804][1456_AURIX Development Studio的试用初步]]
