@@ -28,6 +28,8 @@ TC275是我现在工作中经常接触的一个MCU，但是我对这个MCU的熟
 *** 调试接口
 - [[https://blog.csdn.net/grey_csdn/article/details/126897245][1461_DAP调试接口科普]]
 *** 内核架构
+内核不是一个MCU专用的知识，因此还是独立出来一个专门的repo进行管理。以下链接是接下来进行相关笔记管理的repo：
+- [[https://github.com/GreyZhang/g_tricore_architecture][tricore architecture]]
 *** 开发工具以及开发板
 - [[https://blog.csdn.net/grey_csdn/article/details/126795186][1455_AURIX Development Studio的安装]]
 - [[https://greyzhang.blog.csdn.net/article/details/126809804][1456_AURIX Development Studio的试用初步]]
