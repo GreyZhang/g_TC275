@@ -52,3 +52,4 @@ TC275是我现在工作中经常接触的一个MCU，但是我对这个MCU的熟
 - [[https://blog.csdn.net/grey_csdn/article/details/127562443][1504_AURIX_TC275参考手册_芯片介绍]]
 - [[https://blog.csdn.net/grey_csdn/article/details/127564658][1505_TC275参考手册阅读笔记_调试系统]]
 - [[https://blog.csdn.net/grey_csdn/article/details/127593035][1506_TC275参考手册阅读笔记_ED芯片]]
+- [[https://blog.csdn.net/grey_csdn/article/details/127743646][1516_AURIX TC275总线设计以及SRI总线]]
