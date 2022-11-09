@@ -23,7 +23,7 @@ TC275是我现在工作中经常接触的一个MCU，但是我对这个MCU的熟
 - [[https://blog.csdn.net/grey_csdn/article/details/126735157][1451_TC275 DataSheet阅读笔记12_时钟、温度以及供电]]
 - [[https://blog.csdn.net/grey_csdn/article/details/126753451][1452_TC275 DataSheet阅读笔记13_供电]]
 - [[https://blog.csdn.net/grey_csdn/article/details/126772871][1453_TC275 DataSheet阅读笔记14]]
-** Aurix_deltas2015_overview_LIST_V11_2015-10-09
+*** Aurix_deltas2015_overview_LIST_V11_2015-10-09
 - [[https://blog.csdn.net/grey_csdn/article/details/127019329][1468_Aurix_deltas2015_overview_LIST_V11_2015-10-09阅读笔记]]
 *** 调试接口
 - [[https://blog.csdn.net/grey_csdn/article/details/126897245][1461_DAP调试接口科普]]
@@ -57,3 +57,4 @@ TC275是我现在工作中经常接触的一个MCU，但是我对这个MCU的熟
 - [[https://blog.csdn.net/grey_csdn/article/details/127593035][1506_TC275参考手册阅读笔记_ED芯片]]
 - [[https://blog.csdn.net/grey_csdn/article/details/127743646][1516_AURIX TC275总线设计以及SRI总线]]
 - [[https://blog.csdn.net/grey_csdn/article/details/127762245][1517_AURIX TC275 SRI中的仲裁功能]]
+- [[https://blog.csdn.net/grey_csdn/article/details/127781650][1518_AURIX TC275 SRI总线错误处理以及总线的实现]]
