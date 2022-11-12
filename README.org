@@ -59,3 +59,4 @@ TC275是我现在工作中经常接触的一个MCU，但是我对这个MCU的熟
 - [[https://blog.csdn.net/grey_csdn/article/details/127762245][1517_AURIX TC275 SRI中的仲裁功能]]
 - [[https://blog.csdn.net/grey_csdn/article/details/127781650][1518_AURIX TC275 SRI总线错误处理以及总线的实现]]
 - [[https://blog.csdn.net/grey_csdn/article/details/127814017][1519_AURIX TC275 SRI总线部分相关寄存器的梳理]]
+- [[https://blog.csdn.net/grey_csdn/article/details/127820202][1520_AURIX TC275 FPI总线接口 SFI桥简介]]
