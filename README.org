@@ -63,3 +63,4 @@ TC275是我现在工作中经常接触的一个MCU，但是我对这个MCU的熟
 - [[https://blog.csdn.net/grey_csdn/article/details/127828039][1521_AURIX TC275 FPI总线系统寄存器]]
 - [[https://blog.csdn.net/grey_csdn/article/details/127840648][1522_AURIX TC275 FPI总线相关寄存器]]
 - [[https://blog.csdn.net/grey_csdn/article/details/127858700][1523_AURIX TC275存储分布_上]]
+- [[https://blog.csdn.net/grey_csdn/article/details/127892757][1524_AURIX TC275存储分布_下]]
