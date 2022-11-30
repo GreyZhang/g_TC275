@@ -68,3 +68,4 @@ TC275是我现在工作中经常接触的一个MCU，但是我对这个MCU的熟
 - [[https://blog.csdn.net/grey_csdn/article/details/127929166][1526_AURIX TC275 BootROM下]]
 - [[https://blog.csdn.net/grey_csdn/article/details/127952102][1528_零开销循环]]
 - [[https://blog.csdn.net/grey_csdn/article/details/128121330][1542_AURIX_TC275_CPU子系统_内核]]
+- [[https://blog.csdn.net/grey_csdn/article/details/128122005][1543_AURIX_TC275_CPU子系统_CPU内核实现特性]]
