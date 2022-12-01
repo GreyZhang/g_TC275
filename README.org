@@ -70,3 +70,4 @@ TC275是我现在工作中经常接触的一个MCU，但是我对这个MCU的熟
 - [[https://blog.csdn.net/grey_csdn/article/details/128121330][1542_AURIX_TC275_CPU子系统_内核]]
 - [[https://blog.csdn.net/grey_csdn/article/details/128122005][1543_AURIX_TC275_CPU子系统_CPU内核实现特性]]
 - [[https://blog.csdn.net/grey_csdn/article/details/128125640][1544_AURIX_TC275_CPU子系统_存储寻址以及子系统寄存器]]
+- [[https://blog.csdn.net/grey_csdn/article/details/128139514][1545_AURIX_TC275_CPU子系统_存储以及性能]] 
