@@ -74,3 +74,4 @@ TC275是我现在工作中经常接触的一个MCU，但是我对这个MCU的熟
 - [[https://blog.csdn.net/grey_csdn/article/details/128154281][1546_AURIX_TC275_CPU子系统_指令耗时以及程序存储接口]]
 - [[https://blog.csdn.net/grey_csdn/article/details/128162391][1547_AURIX_TC275_CPU子系统_数据存储接口]]
 - [[https://blog.csdn.net/grey_csdn/article/details/128169729][1548_AURIX_TC275_锁步比较逻辑LCL]]
+- [[https://blog.csdn.net/grey_csdn/article/details/128174678][1549_AURIX_TC275_SCU系统中的CCU模块]]
