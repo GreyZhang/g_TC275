@@ -77,3 +77,4 @@ TC275是我现在工作中经常接触的一个MCU，但是我对这个MCU的熟
 - [[https://blog.csdn.net/grey_csdn/article/details/128174678][1549_AURIX_TC275_SCU系统中的CCU模块]]
 - [[https://blog.csdn.net/grey_csdn/article/details/128176817][1550_AURIX_TC275_锁相环的操作]]
 - [[https://blog.csdn.net/grey_csdn/article/details/128179286][1551_AURIX_TC275_锁相环的调频、寄存器以及ERAY锁相环]]
+- [[https://blog.csdn.net/grey_csdn/article/details/128192085][1552_AURIX_TC275_时钟分发]]
