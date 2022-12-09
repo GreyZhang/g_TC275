@@ -84,3 +84,4 @@ TC275是我现在工作中经常接触的一个MCU，但是我对这个MCU的熟
 - [[https://blog.csdn.net/grey_csdn/article/details/128227430][1556_AURIX_TC275_复位系统控制单元]]
 - [[https://blog.csdn.net/grey_csdn/article/details/128243550][1557_AURIX_TC275_复位控制单元以及相关寄存器]]
 - [[https://blog.csdn.net/grey_csdn/article/details/128258238][1558_AURIX_TC275_RCU模块中的ESR管脚]]
+- [[https://blog.csdn.net/grey_csdn/article/details/128258757][1559_AURIX_TC275_RCU系统中的Boot支持、Pad配置以及NMI trap处理]]
