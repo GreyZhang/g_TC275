@@ -87,3 +87,4 @@ TC275是我现在工作中经常接触的一个MCU，但是我对这个MCU的熟
 - [[https://blog.csdn.net/grey_csdn/article/details/128258757][1559_AURIX_TC275_RCU系统中的Boot支持、Pad配置以及NMI trap处理]]
 - [[https://blog.csdn.net/grey_csdn/article/details/128265636][1560_AURIX_TC275_NMI Trap以及PMC]]
 - [[https://blog.csdn.net/grey_csdn/article/details/128265739][1561_AURIX_TC275_电源管理以及监控]]
+- [[https://blog.csdn.net/grey_csdn/article/details/128267902][1562_AURIX_TC275_电源监控]]
