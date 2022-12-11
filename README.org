@@ -90,3 +90,4 @@ TC275是我现在工作中经常接触的一个MCU，但是我对这个MCU的熟
 - [[https://blog.csdn.net/grey_csdn/article/details/128267902][1562_AURIX_TC275_电源监控]]
 - [[https://blog.csdn.net/grey_csdn/article/details/128269031][1563_AURIX_TC275_EVR的控制寄存器]]
 - [[https://blog.csdn.net/grey_csdn/article/details/128274295][1564_AURIX_TC275_电压监控寄存器整理]]
+- [[https://blog.csdn.net/grey_csdn/article/details/128276991][1565_AURIX_TC275_开关电源模式相关寄存器]]
