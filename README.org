@@ -94,3 +94,4 @@ TC275是我现在工作中经常接触的一个MCU，但是我对这个MCU的熟
 - [[https://blog.csdn.net/grey_csdn/article/details/128293022][1566_AURIX_TC275_电源管理_低功耗模式]]
 - [[https://blog.csdn.net/grey_csdn/article/details/128293523][1567_AURIX_TC275_电源管理_待机模式]]
 - [[https://blog.csdn.net/grey_csdn/article/details/128307810][1568_AURIX_TC275_电源管理_唤醒配置与状态]]
+- [[https://blog.csdn.net/grey_csdn/article/details/128321361][1569_AURIX_TC275_电源管理与系统控制单元]]
