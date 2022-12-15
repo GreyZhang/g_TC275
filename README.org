@@ -95,4 +95,5 @@ TC275是我现在工作中经常接触的一个MCU，但是我对这个MCU的熟
 - [[https://blog.csdn.net/grey_csdn/article/details/128293523][1567_AURIX_TC275_电源管理_待机模式]]
 - [[https://blog.csdn.net/grey_csdn/article/details/128307810][1568_AURIX_TC275_电源管理_唤醒配置与状态]]
 - [[https://blog.csdn.net/grey_csdn/article/details/128321361][1569_AURIX_TC275_电源管理与系统控制单元]]
-- [[https://blog.csdn.net/grey_csdn/article/details/128336193][1570_AURIX_TC275_SCU_ERU]] 
+- [[https://blog.csdn.net/grey_csdn/article/details/128336193][1570_AURIX_TC275_SCU_ERU]]
+- [[https://blog.csdn.net/grey_csdn/article/details/128337751][1571_AURIX_TC275_ERU寄存器以及锁步控制]]
