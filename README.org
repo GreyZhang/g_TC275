@@ -99,3 +99,4 @@ TC275是我现在工作中经常接触的一个MCU，但是我对这个MCU的熟
 - [[https://blog.csdn.net/grey_csdn/article/details/128337751][1571_AURIX_TC275_ERU寄存器以及锁步控制]]
 - [[https://blog.csdn.net/grey_csdn/article/details/128368278][1572_AURIX_TC275_SCU中的锁步以及芯片温度采集]]
 - [[https://blog.csdn.net/grey_csdn/article/details/128368351][1573_AURIX_TC275_SCU中的急停功能以及overlay]]
+- [[https://blog.csdn.net/grey_csdn/article/details/128379866][1574_AURIX_TC275_SCU中的杂项控制]]
