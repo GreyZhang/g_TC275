@@ -104,3 +104,4 @@ TC275是我现在工作中经常接触的一个MCU，但是我对这个MCU的熟
 - [[https://blog.csdn.net/grey_csdn/article/details/128665999][1576_AURIX_TC275_MTU控制与状态寄存器]]
 - [[https://blog.csdn.net/grey_csdn/article/details/128666134][1577_AURIX_TC275_MTU中检测控制相关寄存器]]
 - [[https://blog.csdn.net/grey_csdn/article/details/128668836][1578_AURIX_TC275_MTU中的ECC检测、错误追踪以及运行模式]]
+- [[https://blog.csdn.net/grey_csdn/article/details/128668839][1579_AURIX_TC275_MTU中的ECC机理以及各种寄存器实现]]
