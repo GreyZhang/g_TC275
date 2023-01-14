@@ -107,3 +107,4 @@ TC275是我现在工作中经常接触的一个MCU，但是我对这个MCU的熟
 - [[https://blog.csdn.net/grey_csdn/article/details/128668839][1579_AURIX_TC275_MTU中的ECC机理以及各种寄存器实现]]
 - [[https://blog.csdn.net/grey_csdn/article/details/128683829][1580_AURIX_TC275_SMU模块初步]]
 - [[https://blog.csdn.net/grey_csdn/article/details/128683890][1581_AURIX_TC275_SMU故障处理梳理]]
+- [[https://blog.csdn.net/grey_csdn/article/details/128685851][1583_AURIX_TC275_SMU的控制以及FSP]]
