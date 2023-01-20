@@ -122,3 +122,4 @@ TC275是我现在工作中经常接触的一个MCU，但是我对这个MCU的熟
 - [[https://blog.csdn.net/grey_csdn/article/details/128742775][1595_AURIX_TC275_PMU_应用提示2]]
 - [[https://blog.csdn.net/grey_csdn/article/details/128742793][1596_AURIX_TC275_LMU简介]]
 - [[https://blog.csdn.net/grey_csdn/article/details/128742811][1597_AURIX_TC275_GPIO简介]]
+- [[https://blog.csdn.net/grey_csdn/article/details/128742821][1598_AURIX_TC275_GPIO功能以及部分寄存器梳理1]]
